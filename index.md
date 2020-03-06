@@ -47,3 +47,7 @@
 [Andrian Leah](https://anilist.co/user/Allanon/)
 
 [Cloud Wild](https://anilist.co/user/CloudWild)
+
+[Mitch](https://anilist.co/user/BurroDiCacao/)
+
+[Daniele](https://anilist.co/user/Cardioaspirine/)
