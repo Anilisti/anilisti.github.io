@@ -1,7 +1,5 @@
-## Anilisti
-
-| | Nome Telegram | Nome Anilist | |
-| :--: | :--: | :--: | :--: |
+| ANILISTI | Nome Telegram | Nome Anilist | |
+| :-- | :-- | :-- | :--: |
 | **Xemnas** | @zXemnas | [Xemnas](https://anilist.co/user/Xemnas/) | ♂ |
 | **LAEM** | @Allelulia | [LAEM](https://anilist.co/user/LAEM/) | ♂ |
 | **Roccobot** | @Roccobot | [Roccobot](https://anilist.co/user/Roccobot/) | ♂ |
