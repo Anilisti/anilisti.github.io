@@ -1,4 +1,4 @@
-| ANILISTI | Nome Telegram | Nome Anilist | |
+| ANILISTI | Telegram | Anilist | |
 | :-- | :-- | :-- | :--: |
 | **Xemnas** | @zXemnas | [Xemnas](https://anilist.co/user/Xemnas/) | ♂ |
 | **LAEM** | @Allelulia | [LAEM](https://anilist.co/user/LAEM/) | ♂ |
@@ -24,3 +24,4 @@
 | **Cloud Wild** | @Cloud_Wild | [CloudWild](https://anilist.co/user/CloudWild) | ♂ |
 | **Mitch** | @injection93 | [BurroDiCacao](https://anilist.co/user/BurroDiCacao/) | ♂ |
 | **Daniele Sorgato** | - | [Cardioaspirine](https://anilist.co/user/Cardioaspirine/) | ♂ |
+| **Mattia Lazzari** | - | [pagia](https://anilist.co/user/pagia/) |
