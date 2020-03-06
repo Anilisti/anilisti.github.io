@@ -1,8 +1,8 @@
 ## Anilisti
 
-[Xemnas](https://anilist.co/user/Xemnas/)
+[@zXemnas](https://anilist.co/user/Xemnas/)
 
-[LAEM](https://anilist.co/user/LAEM/)
+[@Allelulia](https://anilist.co/user/LAEM/) (LAEM)
 
 [Roccobot](https://anilist.co/user/Roccobot/)
 
