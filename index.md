@@ -1,4 +1,4 @@
-| ANILISTI | Telegram | Anilist | |
+| ANILISTI | Telegram | Anilist | 🍆 |
 | :-- | :-- | :-- | :--: |
 | **Xemnas** | @zXemnas | [Xemnas](https://anilist.co/user/Xemnas/) | ♂ |
 | **LAEM** | @Allelulia | [LAEM](https://anilist.co/user/LAEM/) | ♂ |
