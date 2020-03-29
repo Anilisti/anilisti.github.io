@@ -28,4 +28,4 @@
 | **Marco** | @Jinkou | [ItalianOtaku](https://anilist.co/user/ItalianOtaku/) | ♂ |
 | **Meliodas-sama** | @Dakrai | [Cenzo99](https://anilist.co/user/Cenzo99/) | ♂ |
 | **Andie** | - | [eatmecurryosly](https://anilist.co/user/eatmecurryosly/) | ♀ |
-| **Fausto** | @DrNefar | [Nefar](https://anilist.co/user/Nefar/) | ♀ |
+| **Fausto** | @DrNefar | [Nefar](https://anilist.co/user/Nefar/) | ♂ |
