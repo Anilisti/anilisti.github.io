@@ -29,3 +29,4 @@
 | **Andie** | @andieag | [eatmecurryosly](https://anilist.co/user/eatmecurryosly/) | ♀ |
 | **Fausto** | @DrNefar | [Nefar](https://anilist.co/user/Nefar/) | ♂ |
 | **Paolo G** | @Metal_King_Slime | [Zefif](https://anilist.co/user/Zefir/) | ♂ |
+| **Eleonora** | @Elnera | [ElneraAline](https://anilist.co/user/ElneraAline) | ♀ |
