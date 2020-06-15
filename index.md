@@ -6,7 +6,7 @@
 | **Tuxdere** | @tuxdere | [tuxdere](https://anilist.co/user/tuxdere/) | ♂ |
 | **Giuseppe Tartaglione** | @Scrocchy | [Darax](https://anilist.co/user/Darax/) | ♂ |
 | **Abaddon** | @nepnepepne | [abaddon](https://anilist.co/user/abaddon/) | ♂ |
-| **Francesco Notaro** | @TheMadBarber | [TheMadBarber](https://anilist.co/user/TheMadBarber) | ♂ |
+| **Francesco Notaro** | @TheMadBarber | [TheMadBarber](https://anilist.co/user/TheMadBarber/) | ♂ |
 | **Alessandro** | @Eru95 | [Eru95](https://anilist.co/user/Eru95/) | ♂ |
 | **Giuseppe** | @G1ubs | [Giubs](https://anilist.co/user/Giubs/) | ♂ |
 | **Andrea** | @AndreaDry | [akaDry](https://anilist.co/user/akaDry/) | ♂ |
@@ -19,9 +19,9 @@
 | **Betta β** | - | [Betta](https://anilist.co/user/Betta/) | ♂ |
 | **Riccardo Lewdostrello** | @xDevily | [@xDevily](https://anilist.co/user/xDevily/) | ♂ |
 | **Ale** | @Ryuen_025 | [Ryuen](https://anilist.co/user/Ryuen/) | ♂ |
-| **Lorenzo** | @Lor_o3 | [Loren03](https://anilist.co/user/Loren03) | ♂ |
+| **Lorenzo** | @Lor_o3 | [Loren03](https://anilist.co/user/Loren03/) | ♂ |
 | **Andrian Leah** | @FaitaRyuu | [Allanon](https://anilist.co/user/Allanon/) | ♂ |
-| **Cloud Wild** | @Cloud_Wild | [CloudWild](https://anilist.co/user/CloudWild) | ♂ |
+| **Cloud Wild** | @Cloud_Wild | [CloudWild](https://anilist.co/user/CloudWild/) | ♂ |
 | **Mitch** | @injection93 | [BurroDiCacao](https://anilist.co/user/BurroDiCacao/) | ♂ |
 | **Daniele Sorgato** | - | [Cardioaspirine](https://anilist.co/user/Cardioaspirine/) | ♂ |
 | **Mattia Lazzari** | - | [pagia](https://anilist.co/user/pagia/) | ♂ |
@@ -30,3 +30,6 @@
 | **Fausto** | @DrNefar | [Nefar](https://anilist.co/user/Nefar/) | ♂ |
 | **Paolo G** | @Metal_King_Slime | [Zefif](https://anilist.co/user/Zefir/) | ♂ |
 | **Eleonora** | @Elnera | [ElneraAline](https://anilist.co/user/ElneraAline) | ♀ |
+| **Nour** | @asleep247 | [9Reborn](https://anilist.co/user/9Reborn/) | ♂ |
+| **Bighs** | - | [Bighs](https://anilist.co/user/Bighs/) | ♂ |
+| **Alessio** | - | [Ale98](https://anilist.co/user/Ale98/) | ♂ |
