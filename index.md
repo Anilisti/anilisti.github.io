@@ -3,7 +3,6 @@
 | **Xemnas** | @zXemnas | [Xemnas](https://anilist.co/user/Xemnas/) | ♂ |
 | **LAEM** | @Allelulia | [LAEM](https://anilist.co/user/LAEM/) | ♂ |
 | **Roccobot** | @Roccobot | [Roccobot](https://anilist.co/user/Roccobot/) | ♂ |
-| **Tuxdere** | @tuxdere | [tuxdere](https://anilist.co/user/tuxdere/) | ♂ |
 | **Giuseppe Tartaglione** | @Scrocchy | [Darax](https://anilist.co/user/Darax/) | ♂ |
 | **Abaddon** | @nepnepepne | [abaddon](https://anilist.co/user/abaddon/) | ♂ |
 | **Francesco Notaro** | @TheMadBarber | [TheMadBarber](https://anilist.co/user/TheMadBarber/) | ♂ |
