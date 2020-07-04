@@ -32,4 +32,4 @@
 | **Bighs** | - | [Bighs](https://anilist.co/user/Bighs/) | ♂ |
 | **Alessio** | - | [Ale98](https://anilist.co/user/Ale98/) | ♂ |
 | **Entità Superiore** | @EntitaSuperiore | [DirToshimasa](https://anilist.co/user/DirToshimasa/) | ♂ |
-| **Andy 5.2** | - | [andydont](https://anilist.co/user/andydont/) | ♂ |
+| **Andy x.y** | - | [andydont](https://anilist.co/user/andydont/) | ♂ |
