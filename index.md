@@ -34,3 +34,5 @@
 | **Alessio** | - | [Ale98](https://anilist.co/user/Ale98/) | ♂ |
 | **Entità Superiore** | @EntitaSuperiore | [DirToshimasa](https://anilist.co/user/DirToshimasa/) | ♂ |
 | **Andy x.y** | - | [andydont](https://anilist.co/user/andydont/) | ♂ |
+| **Salva** | @salvalose | [salvalose](https://anilist.co/user/salvalose/) | ♂ |
+| **𝐎𝐊𝐀𝐁𝐄** | @Rintarokabee | [Okabeee](https://anilist.co/user/Okabeee) | ♂ |
